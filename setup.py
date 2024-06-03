@@ -10,7 +10,7 @@ def get_version_and_author(package):
     return version, author
 
 
-version, author = get_version_and_author('ml_utils')
+version, author = get_version_and_author('ml-utils')
 
 setup(
     name='ml-utils',
